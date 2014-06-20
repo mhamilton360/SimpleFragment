@@ -1,0 +1,18 @@
+!DOCTYPE
+<html>
+    <head>
+        <title>First Git App</title>
+    </head>
+    <body>
+        <div>
+            <ul>
+                <li>Mangoes</li>
+                <li>Oranges</li>
+                <li>Apples</li>
+            </ul>
+            
+        </div>
+    </body>
+
+</html>
+
